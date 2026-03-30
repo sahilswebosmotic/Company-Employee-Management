@@ -1,0 +1,141 @@
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T11:53:48.913Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T11:53:48.915Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T11:55:25.709Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T11:55:25.711Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T11:55:25.718Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T11:55:25.721Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T11:55:28.225Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T11:55:28.227Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T11:55:28.257Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T11:55:28.259Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T11:55:37.967Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T11:55:37.969Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T11:55:38.004Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T11:55:38.006Z"}
+{"__v":0,"_id":"69ca5f6e39aa83d8f9716ac6","address":{"city":"New York","country":"USA","line1":"100 Innovation Way","state":"NY","zip":10001},"contact":1112223334,"createdAt":"2026-03-30T11:33:02.464Z","email":"contact@globalsystems.com","level":"info","message":"modify content","name":"Global  Systems","status":"ACTIVE","timestamp":"2026-03-30T11:55:44.192Z","updatedAt":"2026-03-30T11:33:02.464Z"}
+{"__v":0,"_id":"69ca5f6e39aa83d8f9716ac6","address":{"city":"New York","country":"USA","line1":"100 Innovation Way","state":"NY","zip":10001},"contact":1112223334,"createdAt":"2026-03-30T11:33:02.464Z","email":"contact@globalsystems.com","level":"info","message":"update content","name":"Global distribute Systems","status":"ACTIVE","timestamp":"2026-03-30T11:55:53.985Z","updatedAt":"2026-03-30T11:33:02.464Z"}
+{"__v":0,"_id":"69ca5f6e39aa83d8f9716ac6","address":{"city":"New York","country":"USA","line1":"100 Innovation Way","state":"NY","zip":10001},"contact":1112223334,"createdAt":"2026-03-30T11:33:02.464Z","email":"contact@globalsystems.com","level":"info","message":"modify content","name":"Global Systems","status":"ACTIVE","timestamp":"2026-03-30T11:56:25.328Z","updatedAt":"2026-03-30T11:33:02.464Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T11:58:35.368Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T11:58:35.370Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T11:58:35.394Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T11:58:35.396Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:00:17.909Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:00:17.911Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:00:17.921Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:00:17.923Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:00:22.828Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:00:22.830Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:00:22.907Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:00:22.909Z"}
+{"__v":0,"_id":"69ca5f6e39aa83d8f9716ac6","address":{"city":"New York","country":"USA","line1":"100 Innovation Way","state":"NY","zip":10001},"contact":1112223334,"createdAt":"2026-03-30T11:33:02.464Z","email":"contact@globalsystems.com","level":"info","message":"update content","name":"Global distribute Systems","status":"ACTIVE","timestamp":"2026-03-30T12:00:29.031Z","updatedAt":"2026-03-30T11:33:02.464Z"}
+{"__v":0,"_id":"69ca5f6e39aa83d8f9716ac6","address":{"city":"New York","country":"USA","line1":"100 Innovation Way","state":"NY","zip":10001},"contact":1112223334,"createdAt":"2026-03-30T11:33:02.464Z","email":"contact@globalsystems.com","level":"info","message":"modify content","name":"Global distribute Systems","status":"ACTIVE","timestamp":"2026-03-30T12:00:45.435Z","updatedAt":"2026-03-30T11:33:02.464Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:03:16.698Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:03:16.700Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:03:16.756Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:03:16.758Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:08:11.076Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:08:11.079Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:09:33.394Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:09:33.395Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:09:35.731Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:09:35.733Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:09:59.824Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:09:59.826Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:10:06.873Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:10:06.875Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:10:16.136Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:10:16.138Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:10:20.784Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:10:20.787Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:10:56.152Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:10:56.154Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:12:03.715Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:12:03.716Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:12:42.529Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:12:42.531Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:12:48.180Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:12:48.182Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:12:53.993Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:12:53.995Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:12:56.656Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:12:56.658Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:12:58.413Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:12:58.415Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:13:03.765Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:13:03.767Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:13:05.407Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:13:05.409Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:13:48.175Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:13:48.177Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:13:50.409Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:13:50.412Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:13:54.912Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:13:54.914Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:14:43.762Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:14:43.764Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:14:45.868Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:14:45.870Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:15:02.563Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:15:02.566Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:15:07.747Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:15:07.750Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:15:31.565Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:15:31.567Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:15:38.787Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:15:38.789Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:15:48.822Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:15:48.823Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:17:22.660Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:17:22.662Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:17:56.130Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:17:56.132Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:19:17.078Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:19:17.080Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:19:22.626Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:19:22.628Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:19:24.691Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:19:24.693Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:22:06.927Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:22:06.929Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:22:13.280Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:22:13.282Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:24:29.352Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:24:29.355Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:24:35.897Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:24:35.899Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:24:41.604Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:24:41.606Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:24:50.634Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:24:50.637Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:24:56.108Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:24:56.111Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:25:00.643Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:25:00.645Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:25:10.834Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:25:10.836Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:25:14.305Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:25:14.307Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:25:18.689Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:25:18.692Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:25:21.437Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:25:21.438Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:25:24.488Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:25:24.491Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:25:26.345Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:25:26.348Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:25:30.744Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:25:30.746Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:25:34.277Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:25:34.279Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:25:57.894Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:25:57.896Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:25:59.189Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:25:59.191Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:26:02.463Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:26:02.465Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:26:03.541Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:26:03.543Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:26:05.715Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:26:05.717Z"}
+{"level":"info","message":"Server is running in development mode on port 5000","timestamp":"2026-03-30T12:26:09.365Z"}
+{"level":"info","message":"Server is running on http://localhost:5000","timestamp":"2026-03-30T12:26:09.367Z"}
