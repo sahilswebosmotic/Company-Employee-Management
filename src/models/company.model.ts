@@ -1,5 +1,5 @@
 import { Schema, model } from "mongoose";
-import { Company } from "../DAOS/company.type";
+import { Company } from "../daos/company.type";
 
 const CompanySchema = new Schema<Company>({
     name: {

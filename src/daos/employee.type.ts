@@ -11,4 +11,3 @@ export interface User extends Document {
     reporters: Schema.Types.ObjectId[];
     code? : number;
 }
-

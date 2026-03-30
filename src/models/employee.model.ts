@@ -1,5 +1,5 @@
 import { Schema, model } from "mongoose";
-import { User } from "../DAOS/user.type";
+import { User } from "../daos/employee.type";
 
 const UserSchema = new Schema<User>({
     firstName: {
