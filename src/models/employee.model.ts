@@ -1,7 +1,8 @@
+import bcrypt from "bcryptjs";
 import { Schema, model } from "mongoose";
-import { User } from "../daos/employee.type";
+import { Employee } from "../daos/employee.type";
 
-const UserSchema = new Schema<User>({
+const EmployeeSchema = new Schema<Employee>({
     firstName: {
         type: String,
         required: [true, "First name is required"],
@@ -30,6 +31,11 @@ const UserSchema = new Schema<User>({
         required: [true, "Designation is required"],
         enum: ["MANAGER", "TEAM_LEADER", "DEVELOPER"]
     },
+    role: {
+        type: String,
+        enum: ["SUPER_ADMIN", "EMPLOYEE"],
+        default: "EMPLOYEE"
+    },
     companyId: {
         type: Schema.Types.ObjectId,
         ref: "Company",
@@ -51,4 +57,12 @@ const UserSchema = new Schema<User>({
     timestamps: true 
 });
 
-export const UserModel = model<User>("User", UserSchema);
+EmployeeSchema.pre("save", async function() {
+    if (!this.isModified("password")) {
+        return;
+    }
+    const salt = await bcrypt.genSalt(10);
+    this.password = await bcrypt.hash(this.password, salt);
+});
+
+export const EmployeeModel = model<Employee>("Employee", EmployeeSchema);

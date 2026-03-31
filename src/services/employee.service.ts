@@ -1,12 +1,12 @@
-import { UserModel } from '../models/employee.model';
-import { User } from '../daos/employee.type';
+import { EmployeeModel } from '../models/employee.model';
+import { Employee } from '../daos/employee.type';
 
 export class EmployeeService {
-    async create(data: Partial<User>) {
-        return await UserModel.create(data);
+    async create(data: Partial<Employee>) {
+        return await EmployeeModel.create(data);
     }
 
     async findAll() {
-        return await UserModel.find();
+        return await EmployeeModel.find();
     }
 }

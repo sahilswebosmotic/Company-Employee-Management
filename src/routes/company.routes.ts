@@ -4,22 +4,20 @@ import {
     getAllCompanies,
     updateCompany,
     modifyCompany,
-    deleteCompany,
-    getCompanywithStatusFilter,
-    getCompanywithEmailFilter,
-    getCompanywithNameFilter,
-    getCompanyByFilter,
+    deleteCompany
 } from "../controllers/company.controller";
 
+import { authMiddleware } from "../middlewares/auth.middleware";
+import { authorize } from "../middlewares/role.middleware";
+
 const router = Router();
-router.post('/', createCompany);
+
+router.use(authMiddleware);
+
+router.post('/', authorize(['SUPER_ADMIN']), createCompany);
 router.get('/', getAllCompanies);
-router.put('/:id', updateCompany);
-router.patch('/:id', modifyCompany);
-router.delete('/:id', deleteCompany);
-router.get('/filter', getCompanyByFilter);
-router.get('/filter/status', getCompanywithStatusFilter);
-router.get('/filter/email', getCompanywithEmailFilter);
-router.get('/filter/name', getCompanywithNameFilter);
+router.put('/:id', authorize(['SUPER_ADMIN']), updateCompany);
+router.patch('/:id', authorize(['SUPER_ADMIN']), modifyCompany);
+router.delete('/:id', authorize(['SUPER_ADMIN']), deleteCompany);
 
 export default router;
