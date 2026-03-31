@@ -2,6 +2,8 @@ import express from 'express';
 import cors from 'cors';
 import { config } from './config/env';
 import companyRoutes from './routes/company.routes';
+import employeeRoutes from './routes/employee.routes';
+import authRoutes from './routes/auth.routes';
 
 const app = express();
 
@@ -16,8 +18,8 @@ app.get('/', (req, res) => {
 });
 
 // Future routes will be added here
-// app.use('/api/auth', authRoutes);
+app.use('/api', authRoutes);
 app.use('/api/companies', companyRoutes);
-// app.use('/api/employees', employeeRoutes);
+app.use('/api/employees', employeeRoutes);
 
 export default app;
