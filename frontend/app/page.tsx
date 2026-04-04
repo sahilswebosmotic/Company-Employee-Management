@@ -398,11 +398,10 @@ export default function Home() {
                 key={tab}
                 type="button"
                 onClick={() => setActiveTab(tab)}
-                className={`rounded-xl px-4 py-2 text-sm font-semibold transition ${
-                  activeTab === tab
+                className={`rounded-xl px-4 py-2 text-sm font-semibold transition ${activeTab === tab
                     ? "bg-teal-700 text-white"
                     : "border border-slate-300 bg-white text-slate-700 hover:border-teal-400"
-                }`}
+                  }`}
               >
                 {tab[0].toUpperCase() + tab.slice(1)}
               </button>
