@@ -73,11 +73,13 @@ const defaultRegister = {
   isVerified: true,
 };
 
+const defaultApiBase =
+  process.env.NEXT_PUBLIC_API_BASE_URL ||
+  "https://company-employee-management-backend.onrender.com";
+
 export default function Home() {
   const [activeTab, setActiveTab] = useState<Tab>("auth");
-  const [apiBase, setApiBase] = useState(
-    process.env.NEXT_PUBLIC_API_BASE_URL || "http://localhost:5000"
-  );
+  const [apiBase, setApiBase] = useState(defaultApiBase);
   const [token, setToken] = useState(() => {
     if (typeof window === "undefined") {
       return "";
